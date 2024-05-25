@@ -81,3 +81,10 @@ sudoku = [
 By opening the `sudoku_validator.py` file and replacing the sudoku matrix by any desire matrix you can use the program with any desire custom sudoku matrix.
 
 ## Execute via Replit
+For easy execution without having to run locally bellow I provided a Replit environment that will allow you to run the project with a simple click. Check instructions Bellow:
+
+- Open the URL: https://replit.com/@cdrubido/sudokuvalidator?v=1
+- On the right hand side click click the Fork green button and fork the project.
+- Once the project is Forked you can open the `sudoku_validator.py` file. 
+- Finally Click RUN.
+- To run the unittest open the terminal in the Replit environment and run the command to execute the unittest provided above.
